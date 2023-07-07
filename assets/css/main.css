@@ -122,7 +122,6 @@ input, select, textarea {
 		line-height: 1.75;
 	}
 
-		/*
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
@@ -130,7 +129,7 @@ input, select, textarea {
 			}
 
 		}
-		*/
+
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
@@ -570,7 +569,7 @@ input, select, textarea {
 				.row.gtr-200.gtr-uniform > * {
 					padding-top: 3em;
 				}
-		/*
+
 		@media screen and (max-width: 1680px) {
 
 			.row {
@@ -815,7 +814,7 @@ input, select, textarea {
 						}
 
 		}
-		*/
+
 		@media screen and (max-width: 1280px) {
 
 			.row {
@@ -2922,7 +2921,7 @@ input, select, textarea {
 		.split.style1 > :nth-child(2n) {
 			width: calc(33.33333% - 2.5em);
 		}
-		/*
+
 		@media screen and (max-width: 1680px) {
 
 			.split > * {
@@ -2946,7 +2945,7 @@ input, select, textarea {
 			}
 
 		}
-		*/
+
 		@media screen and (max-width: 980px) {
 
 			.split {
@@ -3085,7 +3084,7 @@ input, select, textarea {
 			transform: translateX(-1em);
 			opacity: 0;
 		}
-		/*
+
 		@media screen and (max-width: 1680px) {
 
 			.spotlights > section > .content {
@@ -3093,7 +3092,7 @@ input, select, textarea {
 			}
 
 		}
-		*/
+
 		@media screen and (max-width: 980px) {
 
 			.spotlights > section {
@@ -3211,7 +3210,7 @@ input, select, textarea {
 			max-width: 100%;
 			width: 75em;
 		}
-			/*
+
 			@media screen and (max-width: 1680px) {
 
 				.wrapper > .inner {
@@ -3219,7 +3218,7 @@ input, select, textarea {
 				}
 
 			}
-			*/
+
 			@media screen and (max-width: 1280px) {
 
 				.wrapper > .inner {
